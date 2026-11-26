@@ -1,9 +1,7 @@
-<img src="assets/banner.svg" width="100%" alt="Gabriel Danho — AI & Automation Engineer · Physicist · Licensed teacher">
+<img src="assets/header.svg" width="100%" alt="Gabriel Danho — AI & Automation Engineer · B.Sc. Physics · Master of Education (Linköping University) · M.Sc. AI & Automation (ongoing)">
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gabriel-danho-2a1a9112a"><img src="https://img.shields.io/badge/LinkedIn-Gabriel%20Danho-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:gabriel.danho@hotmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-1f2937?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email"></a>
-  <img src="https://img.shields.io/badge/Based%20in-Sweden-006AA7?style=for-the-badge" alt="Based in Sweden">
   <img src="https://img.shields.io/badge/Open%20to-AI%20%26%20Automation%20roles-16a34a?style=for-the-badge" alt="Open to AI and automation roles">
 </p>
 
@@ -25,6 +23,8 @@ I'm a **physicist and licensed teacher who builds AI and automation systems**. I
   <a href="https://github.com/gabrieldanho9988-sys/MUA600-Multi-Agent-Manufacturing"><img src="assets/cards/multi-agent-llm.svg" width="49%" alt="Multi-agent factory with LLM order intake"></a>
   <a href="https://github.com/gabrieldanho9988-sys/Social_Anxiety_ML_Project"><img src="assets/cards/ml-lesson.svg" width="49%" alt="ML lesson: social anxiety data"></a>
 </p>
+
+▶️ **Try the live demo:** [Multi-Agent Factory + LLM](https://gabrieldanho9988-sys.github.io/MUA600-Multi-Agent-Manufacturing/)
 
 ## ⚙️ Automation & Control
 

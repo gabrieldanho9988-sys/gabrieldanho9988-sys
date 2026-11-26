@@ -154,7 +154,8 @@ def banner():
          f'<text x="72" y="96" font-family="{MONO}" font-size="17" letter-spacing="3" fill="#7cc4ff">HELLO, I’M</text>',
          f'<text x="70" y="166" font-family="{FONT}" font-size="66" font-weight="800" fill="#ffffff" letter-spacing="-1">Gabriel Danho</text>',
          f'<text x="72" y="214" font-family="{FONT}" font-size="31" font-weight="600" fill="#8fd3ff">AI &amp; Automation Engineer</text>',
-         f'<text x="72" y="256" font-family="{FONT}" font-size="19" fill="#b4c4d8">Physicist · Licensed teacher · M.Sc. AI &amp; Automation</text>',
+         f'<text x="72" y="252" font-family="{FONT}" font-size="18" fill="#b4c4d8">B.Sc. Physics · Master of Education, Linköping University</text>',
+         f'<text x="72" y="280" font-family="{FONT}" font-size="18" fill="#b4c4d8">M.Sc. AI &amp; Automation, University West (ongoing)</text>',
          # physics wave (flowing)
          f'<path d="{wave}" fill="none" stroke="#7cc4ff" stroke-width="3" stroke-linecap="round" stroke-dasharray="10 7">',
          '<animate attributeName="stroke-dashoffset" from="0" to="-34" dur="1.6s" repeatCount="indefinite"/></path>']
@@ -189,7 +190,7 @@ def banner():
         o.append(f'<text x="{x}" y="290" text-anchor="middle" font-family="{MONO}" font-size="14" letter-spacing="1.5" fill="{col}" fill-opacity="0.85">{lab}</text>')
     o.append('</svg>')
     ASSETS.mkdir(parents=True, exist_ok=True)
-    (ASSETS / "banner.svg").write_text("\n".join(o), encoding="utf-8")
+    (ASSETS / "header.svg").write_text("\n".join(o), encoding="utf-8")
 
 
 if __name__ == "__main__":
