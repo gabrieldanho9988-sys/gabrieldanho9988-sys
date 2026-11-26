@@ -32,7 +32,7 @@ PROJECTS = [
      "ML Lesson: Social Anxiety Data",
      "Linear regression on a real social-anxiety dataset (MSE, MAE, R²) and a classroom discussion of AI ethics.",
      ["scikit-learn", "pandas", "Seaborn", "Jupyter"]),
-    ("agv-hmi", "auto", "PLC · INDUSTRIAL HMI", "Live demo",
+    ("agv-operator-hmi", "auto", "PLC · INDUSTRIAL HMI", "Live demo",
      "AGV Operator HMI",
      "Operator HMI that mirrors a TwinCAT IEC 61131-3 PLC state machine: dispatch, emergency stop and reset-to-home.",
      ["TwinCAT", "Structured Text", "IEC 61131-3", "State machine"]),

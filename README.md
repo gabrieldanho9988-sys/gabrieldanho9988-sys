@@ -29,7 +29,7 @@ I'm a **physicist and licensed teacher who builds AI and automation systems**. I
 ## ⚙️ Automation & Control
 
 <p>
-  <a href="https://github.com/gabrieldanho9988-sys/agv-operator-hmi"><img src="assets/cards/agv-hmi.svg" width="49%" alt="AGV Operator HMI"></a>
+  <a href="https://github.com/gabrieldanho9988-sys/agv-operator-hmi"><img src="assets/cards/agv-operator-hmi.svg" width="49%" alt="AGV Operator HMI"></a>
   <a href="https://github.com/gabrieldanho9988-sys/tbot-modelling-and-control"><img src="assets/cards/tbot-control.svg" width="49%" alt="T-Bot modelling and control"></a>
   <a href="https://github.com/gabrieldanho9988-sys/rtd-daq-simulink-arduino"><img src="assets/cards/rtd-daq.svg" width="49%" alt="RTD data acquisition system"></a>
   <a href="https://github.com/gabrieldanho9988-sys/Simulation_Project_Python"><img src="assets/cards/crane-modbus.svg" width="49%" alt="Crane pick-and-place controller"></a>
