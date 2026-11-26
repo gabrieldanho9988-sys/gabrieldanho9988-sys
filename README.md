@@ -41,7 +41,7 @@ I'm a **physicist and licensed teacher who builds AI and automation systems**. I
 
 <p>
   <a href="https://github.com/gabrieldanho9988-sys/Physics-Labs-Upper-Secondary"><img src="assets/cards/physics-labs.svg" width="49%" alt="Physics labs with machine learning"></a>
-  <a href="https://github.com/gabrieldanho9988-sys/Gy25-Fysik-Matte-AI-Labbar-Danderyds-Gymnasium-"><img src="assets/cards/gy25-labs.svg" width="49%" alt="Gy25 physics and math AI labs"></a>
+  <a href="https://github.com/gabrieldanho9988-sys/Gy25-Physics-Math-AI-Labs"><img src="assets/cards/gy25-labs.svg" width="49%" alt="Gy25 physics and math AI labs"></a>
 </p>
 
 ## 🛠️ Toolbox
@@ -67,9 +67,7 @@ I'm a **physicist and licensed teacher who builds AI and automation systems**. I
 ![ABB RAPID](https://img.shields.io/badge/ABB%20RAPID-FF000F?style=flat-square)
 ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white)
 
-**Web & tools**<br>
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML%20%C2%B7%20SVG-E34F26?style=flat-square&logo=html5&logoColor=white)
+**Tools**<br>
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=flat-square&logo=githubpages&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
