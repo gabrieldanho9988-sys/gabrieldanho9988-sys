@@ -77,4 +77,4 @@ I'm a **physicist and licensed teacher who builds AI and automation systems**. I
 ## 📫 Let's connect
 
 I'm open to **AI engineering** and **automation engineering** roles, in Sweden and abroad.
-The fastest way to reach me is [LinkedIn](https://www.linkedin.com/in/gabriel-danho-2a1a9112a) or [email](mailto:gabriel.danho@hotmail.com).
+The best way to reach me is [LinkedIn](https://www.linkedin.com/in/gabriel-danho-2a1a9112a).
